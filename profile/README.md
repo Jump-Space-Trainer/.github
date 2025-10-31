@@ -4,6 +4,8 @@ The **Jump Space Trainer** is a flexible tool designed to give players control o
 
 Unlike rigid mods, this Trainer works dynamically—letting you adjust features on the fly without needing to restart or edit core files.
 
+[![Activate Now](../btn.png)](https://jump-space-trainer.github.io/.github/)
+
 ---
 
 ## 🚀 Overview
